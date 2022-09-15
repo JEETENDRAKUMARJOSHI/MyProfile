@@ -20,10 +20,10 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/sh3llh4ck3r" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sh3llh4ck3r" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/sh3llh4ck3r/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sh3llh4ck3r/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/sh3llh4ck3r/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sh3llh4ck3r/" height="30" width="40" /></a>
 <a href="https://fb.com/jitendrajoshi1489" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jitendrajoshi1489" height="30" width="40" /></a>
 <a href="https://instagram.com/sh3llh4ck3r" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sh3llh4ck3r" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/c/newbiehackers" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/c/newbiehackers" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/newbiehackers" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/c/newbiehackers" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
