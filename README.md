@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/sh3llh4ck3r" target="blank"><img src="https://img.shields.io/twitter/follow/sh3llh4ck3r?logo=twitter&style=for-the-badge" alt="sh3llh4ck3r" /></a> </p>
 
-- 🔭 I’m currently working on [Hospital Manangment Decentralized Application](#)
+- 🔭 I’m currently working on [Solidity Smart Contract Development Based Project ](#)
 
 - 🌱 I’m currently learning **Hardhat | Truffle | Web3**
 
