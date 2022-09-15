@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jeetendra Joshi</h1>
-<h3 align="center">Bug Hunter | Penetration Tester | CTF Player | Python Developer | Web Application Security | Solidity Developer |</h3>
+<h3 align="center">-| Bug Hunter | Penetration Tester | CTF Player | PHP | Python Developer | Solidity Developer |-</h3>
 
 
 <p align="left"> <a href="https://twitter.com/sh3llh4ck3r" target="blank"><img src="https://img.shields.io/twitter/follow/sh3llh4ck3r?logo=twitter&style=for-the-badge" alt="sh3llh4ck3r" /></a> </p>
