@@ -17,7 +17,6 @@
 
 - 📫 How to reach me **developer.jeetendra@gmail.com**
 
-- 📄 Know about my experiences [iamjeetendra.com](iamjeetendra.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
