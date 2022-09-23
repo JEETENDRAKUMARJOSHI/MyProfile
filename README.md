@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/JEETENDRAKUMARJOSHI](https://github.com/JEETENDRAKUMARJOSHI)
 
-- 📝 I regularly write articles on [iamjeetendra.com](iamjeetendra.com)
+- 📝 I regularly write articles on [iamjeetendra.com](https://iamjeetendra.com)
 
 - 💬 Ask me about **React JS | Next JS | Solidity Smart Contract | Node JS |**
 
